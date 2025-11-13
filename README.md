@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hey there 👋
 
-<!--
-**engelgatus/engelgatus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Engel, operations specialist and automation engineer based in Makati, Philippines.
 
-Here are some ideas to get you started:
+I transitioned from service industry to tech in 2019 through Zuitt's coding bootcamp. These days, I build workflow automations that eliminate repetitive tasks and scale operations without adding headcount. I actually discovered automation at my last role when I was thrown into Airtable for the first time, and had never heard of it before, but ended up recreating complex workflows, database, and reports dashboard internally.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I'm working on:**
+- Engineering n8n workflows that cut manual processes by 70%+
+- Scraping and automating job discovery with Discord bots
+
+**Tech I use:**
+- Automation: n8n, Airtable, API integrations
+- Development: Python, JavaScript, React, HTML/CSS
+- Tools: Google Workspace, Office
+
+📫 **Let's connect:**
+- Portfolio: [engelgatus.github.io/portfolio](https://engelgatus.github.io/portfolio)
+- LinkedIn: [linkedin.com/in/engelgatus](https://www.linkedin.com/in/engelgatus/)
+- Email: [engelgatus@gmail.com](mailto:engelgatus@gmail.com)
+
+Currently looking for automation engineering and operations roles where systematic thinking meets hands-on problem solving.
