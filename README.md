@@ -2,7 +2,7 @@
 
 I'm Engel, operations specialist and automation engineer based in Makati, Philippines.
 
-I transitioned from service industry to tech in 2019 through Zuitt's coding bootcamp. These days, I build workflow automations that eliminate repetitive tasks and scale operations without adding headcount. I actually discovered automation at my last role when I was thrown into Airtable for the first time, and had never heard of it before, but ended up recreating the database, complex workflows, and dashboards internally.
+I transitioned from service industry to tech in 2019 through Zuitt's coding bootcamp. These days, I build workflow automations that eliminate repetitive tasks and scale operations. I actually discovered automation at my last role when I was thrown into Airtable for the first time, and had never heard of it before, but ended up recreating the database, complex workflows, and dashboards internally.
 
 **What I'm working on:**
 - Engineering n8n workflows that cut manual processes by 70%+
