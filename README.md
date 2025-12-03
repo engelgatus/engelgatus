@@ -39,4 +39,3 @@ I transitioned from service industry to tech in 2019 through Zuitt's coding boot
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://engelgatus.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engelgatus/)
 
-Currently looking for automation engineering and operations roles where systematic thinking meets hands-on problem solving.
