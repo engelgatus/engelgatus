@@ -14,7 +14,7 @@ I transitioned from service industry to tech in 2019 through Zuitt's coding boot
 - Tools: Google Workspace, Office
 
 📫 **Let's connect:**
-- Portfolio: [engelgatus.github.io/portfolio](https://engelgatus.github.io/portfolio)
+- Portfolio: [engelgatus.github.io/portfolio](https://engelgatus.com)
 - LinkedIn: [linkedin.com/in/engelgatus](https://www.linkedin.com/in/engelgatus/)
 
 Currently looking for automation engineering and operations roles where systematic thinking meets hands-on problem solving.
