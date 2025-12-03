@@ -5,7 +5,9 @@ I'm Engel, operations specialist and automation engineer based in Makati, Philip
 I transitioned from service industry to tech in 2019 through Zuitt's coding bootcamp. These days, I build workflow automations that eliminate repetitive tasks and scale operations. I actually discovered automation at my last role when I was thrown into Airtable for the first time, and had never heard of it before, but ended up recreating the database, complex workflows, and dashboards internally.
 
 **What I'm working on:**
+- **Junior Automation Developer at Xienza** - Developing AI-powered automation solutions and web applications for growing businesses across Europe and the Middle East
 - Engineering n8n workflows that cut manual processes by 70%+
+- Building scalable digital infrastructure with Next.js, React, TypeScript, Tailwind CSS, and Framer Motion
 - Scraping and automating job discovery with Discord bots
 
 ---
