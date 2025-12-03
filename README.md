@@ -30,7 +30,6 @@ I transitioned from service industry to tech in 2019 through Zuitt's coding boot
 
 ### 🤖 AI Tools
 ![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
